@@ -9,8 +9,8 @@ Lembrando que este é um projeto Open Source, então você pode contribuir para 
 
 O material será subdividido em quatro níveis.
 
-- **[Abreviações, acrônimos e siglas](acronimos\siglas.md)**
-- **[Aprendendo um pouco mais sobre tecnologias](conceitos\basic.md)**
+- **[Abreviações, acrônimos e siglas](acronimos/siglas.md)**
+- **[Aprendendo um pouco mais sobre tecnologias](conceitos/basic.md)**
 
-- **[Um pouco mais sobre as tecnologias que usamos aqui na Builders](tecnologias\tech.md)**
-- **[Principais posições que temos em aberto na Builders](career\position.md)**
+- **[Um pouco mais sobre as tecnologias que usamos aqui na Builders](tecnologias/tech.md)**
+- **[Principais posições que temos em aberto na Builders](career/position.md)**
