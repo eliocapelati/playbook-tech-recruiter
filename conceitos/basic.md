@@ -5,6 +5,9 @@
 Um algoritmo nada mais é do que uma sequência de ações. É uma receita que mostra passo a passo os procedimentos necessários para a resolução de uma tarefa.
 Exemplo: fazer um macarrão.
 
+### Design Pattern
+Padrões de Projeto (Design Patterns) são práticas criadas por desenvolvedores experientes com o objetivo de definir soluções para problemas conhecidos que se repetem durante ciclos de desenvolvimento de software. Utilizar padrões de projeto traz o benefício de seguir práticas que já foram aplicadas com sucesso em diversos projetos até se tornarem um padrão. Quanto mais padrões o desenvolvedor conhecer, mais possibilidades ele terá de resolver problemas comuns com mais eficácia, reduzindo a necessidade de pensar em uma nova solução para um problema que já é conhecido em engenharia de software.
+
 ### Lógica de programação
 
 É o modo como se escreve um programa de computador.
